@@ -1,0 +1,19 @@
+{
+    "name": "Ekkamai Macchiato - Home Brewer",
+    "id": 227018,
+    "coverImage": "https://static.bkkmenu.com/files/2016/04/Ekkamai-Macchiato---Home-Brewer-Ekkamai-Macchiato-21-3000x1300.jpg",
+    "menus": [
+        "Iced Caffe Latt - Delivery",
+        "Iced Caramel Macchiato - Delivery",
+        "Iced Americano -Delivery",
+        "Iced Caffe Mocha - Delivery",
+        "Hot Cappuccino - Delivery",
+        "Hot Caffe Latte - Delivery",
+        "Hot Caramel Macchiato - Delivery",
+        "Hot Americano - Delivery"
+    ],
+    "activeTimePeriod": {
+        "open": "09:00",
+        "close": "16:30"
+    }
+}

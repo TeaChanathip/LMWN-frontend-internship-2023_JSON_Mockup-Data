@@ -1,0 +1,36 @@
+{
+    "name": "Iced Americano - Delivery",
+    "id": "22701803",
+    "thumbnailImage": "https://img.wongnai.com/p/128x128/2021/12/31/a2c7b274e198432f8020fb25f2d5904b.jpg",
+    "fullPrice": 120,
+    "discountedPercent": 20,
+    "discountedTimePeriod": {
+        "begin": "",
+        "end": ""
+    },
+    "sold": 50,
+    "totalInStock": 69,
+    "largeImage": "https://img.wongnai.com/p/128x128/2021/12/31/a2c7b274e198432f8020fb25f2d5904b.jpg",
+    "options": [
+        {
+            "label": "ระดับความหวาน",
+            "choices": [
+                {
+                    "label": "ไม่หวาน (0%)"
+                },
+                {
+                    "label": "หวานน้อย (25%)"
+                },
+                {
+                    "label": "หวานกลาง (50%)"
+                },
+                {
+                    "label": "หวานปกติ (100%)"
+                },
+                {
+                    "label": "หวานมาก (200%)"
+                }
+            ]
+        }
+    ]
+}

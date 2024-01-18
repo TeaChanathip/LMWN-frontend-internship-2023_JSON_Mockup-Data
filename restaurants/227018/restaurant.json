@@ -5,12 +5,10 @@
     "menus": [
         "Iced Caffe Latt - Delivery",
         "Iced Caramel Macchiato - Delivery",
-        "Iced Americano -Delivery",
+        "Iced Americano - Delivery",
         "Iced Caffe Mocha - Delivery",
         "Hot Cappuccino - Delivery",
-        "Hot Caffe Latte - Delivery",
-        "Hot Caramel Macchiato - Delivery",
-        "Hot Americano - Delivery"
+        "Hot Caffe Latte - Delivery"
     ],
     "activeTimePeriod": {
         "open": "09:00",

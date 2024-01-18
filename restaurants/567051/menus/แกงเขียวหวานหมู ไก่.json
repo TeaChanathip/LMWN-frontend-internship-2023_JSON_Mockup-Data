@@ -1,0 +1,44 @@
+{
+    "name": "แกงเขียวหวานหมู ไก่",
+    "id": "56705105",
+    "thumbnailImage": "https://img.wongnai.com/p/128x128/2021/01/30/61c5d4b26b3d4e9f85365f300aa3f21b.jpg",
+    "fullPrice": 80,
+    "discountedPercent": 5,
+    "discountedTimePeriod": {
+        "begin": "",
+        "end": ""
+    },
+    "sold": 60,
+    "totalInStock": 69,
+    "largeImage": "https://www.eatingthaifood.com/wp-content/uploads/2017/02/authentic-thai-green-curry-recipe.jpg",
+    "options": [
+        {
+            "label": "ระดับความเผ็ด",
+            "choices": [
+                {
+                    "label": "ไม่เผ็ด"
+                },
+                {
+                    "label": "เผ็ดกลาง"
+                },
+                {
+                    "label": "เผ็ดมาก"
+                }
+            ]
+        },
+        {
+            "label": "เนื้อสัตว์",
+            "choices": [
+                {
+                    "label": "หมู"
+                },
+                {
+                    "label": "ไก่"
+                },
+                {
+                    "label": "วีแกน"
+                }
+            ]
+        }
+    ]
+}

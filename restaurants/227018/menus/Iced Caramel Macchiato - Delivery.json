@@ -1,0 +1,50 @@
+{
+    "name": "Iced Caramel Macchiato - Delivery",
+    "id": "22701802",
+    "thumbnailImage": "https://img.wongnai.com/p/128x128/2021/12/31/44bcd80ad9a24dfe867a5d0cc90ddd5e.jpg",
+    "fullPrice": 120,
+    "discountedPercent": 20,
+    "discountedTimePeriod": {
+        "begin": "",
+        "end": ""
+    },
+    "sold": 60,
+    "totalInStock": 69,
+    "largeImage": "https://img.wongnai.com/p/128x128/2021/12/31/44bcd80ad9a24dfe867a5d0cc90ddd5e.jpg",
+    "options": [
+        {
+            "label": "ระดับความหวาน",
+            "choices": [
+                {
+                    "label": "ไม่หวาน (0%)"
+                },
+                {
+                    "label": "หวานน้อย (25%)"
+                },
+                {
+                    "label": "หวานกลาง (50%)"
+                },
+                {
+                    "label": "หวานปกติ (100%)"
+                },
+                {
+                    "label": "หวานมาก (200%)"
+                }
+            ]
+        },
+        {
+            "label": "ประเภทนม",
+            "choices": [
+                {
+                    "label": "นมวัว"
+                },
+                {
+                    "label": "นมถั่วเหลือง"
+                },
+                {
+                    "label": "นมข้าวโอ๊ต"
+                }
+            ]
+        }
+    ]
+}

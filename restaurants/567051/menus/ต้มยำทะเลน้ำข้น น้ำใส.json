@@ -1,0 +1,58 @@
+{
+    "name": "ต้มยำทะเลน้ำข้น น้ำใส",
+    "id": "56705102",
+    "thumbnailImage": "https://img.wongnai.com/p/128x128/2021/08/14/b50c65b42f0d429cbc1a0b8ec56b74fa.jpg",
+    "fullPrice": 120,
+    "discountedPercent": 25,
+    "discountedTimePeriod": {
+        "begin": "",
+        "end": ""
+    },
+    "sold": 90,
+    "totalInStock": 69,
+    "largeImage": "https://i.ytimg.com/vi/tvt2HgBkGso/maxresdefault.jpg",
+    "options": [
+        {
+            "label": "น้ำข้น น้ำใส",
+            "choices": [
+                {
+                    "label": "น้ำข้น"
+                },
+                {
+                    "label": "น้ำใส"
+                }
+            ]
+        },
+        {
+            "label": "ระดับความเผ็ด",
+            "choices": [
+                {
+                    "label": "ไม่เผ็ด"
+                },
+                {
+                    "label": "เผ็ดกลาง"
+                },
+                {
+                    "label": "เผ็ดมาก"
+                }
+            ]
+        },
+        {
+            "label": "เนื้อสัตว์",
+            "choices": [
+                {
+                    "label": "หมู"
+                },
+                {
+                    "label": "ไก่"
+                },
+                {
+                    "label": "ทะเล"
+                },
+                {
+                    "label": "วีแกน"
+                }
+            ]
+        }
+    ]
+}

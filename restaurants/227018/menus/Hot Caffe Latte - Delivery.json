@@ -1,0 +1,50 @@
+{
+    "name": "Hot Caffe Latte - Delivery",
+    "id": "22701806",
+    "thumbnailImage": "https://img.wongnai.com/p/128x128/2021/12/31/aed784da9a5b46cc99929d4f3d7c3288.jpg",
+    "fullPrice": 120,
+    "discountedPercent": 5,
+    "discountedTimePeriod": {
+        "begin": "",
+        "end": ""
+    },
+    "sold": 35,
+    "totalInStock": 69,
+    "largeImage": "https://img.wongnai.com/p/128x128/2021/12/31/aed784da9a5b46cc99929d4f3d7c3288.jpg",
+    "options": [
+        {
+            "label": "ระดับความหวาน",
+            "choices": [
+                {
+                    "label": "ไม่หวาน (0%)"
+                },
+                {
+                    "label": "หวานน้อย (25%)"
+                },
+                {
+                    "label": "หวานกลาง (50%)"
+                },
+                {
+                    "label": "หวานปกติ (100%)"
+                },
+                {
+                    "label": "หวานมาก (200%)"
+                }
+            ]
+        },
+        {
+            "label": "ประเภทนม",
+            "choices": [
+                {
+                    "label": "นมวัว"
+                },
+                {
+                    "label": "นมถั่วเหลือง"
+                },
+                {
+                    "label": "นมข้าวโอ๊ต"
+                }
+            ]
+        }
+    ]
+}

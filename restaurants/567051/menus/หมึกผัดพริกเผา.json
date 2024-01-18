@@ -1,0 +1,30 @@
+{
+    "name": "หมึกผัดพริกเผา",
+    "id": "56705104",
+    "thumbnailImage": "https://img.wongnai.com/p/128x128/2021/08/14/8f5b95cc7f614cf0884f8e4bed48fb98.jpg",
+    "fullPrice": 80,
+    "discountedPercent": 12,
+    "discountedTimePeriod": {
+        "begin": "",
+        "end": ""
+    },
+    "sold": 70,
+    "totalInStock": 69,
+    "largeImage": "https://img-global.cpcdn.com/recipes/48e3c85774ebeab0/1200x630cq70/photo.jpg",
+    "options": [
+        {
+            "label": "ระดับความเผ็ด",
+            "choices": [
+                {
+                    "label": "ไม่เผ็ด"
+                },
+                {
+                    "label": "เผ็ดกลาง"
+                },
+                {
+                    "label": "เผ็ดมาก"
+                }
+            ]
+        }
+    ]
+}

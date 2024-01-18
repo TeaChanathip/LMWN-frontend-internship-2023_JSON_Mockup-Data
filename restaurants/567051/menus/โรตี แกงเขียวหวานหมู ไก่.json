@@ -1,0 +1,44 @@
+{
+    "name": "โรตี แกงเขียวหวานหมู ไก่",
+    "id": "56705103",
+    "thumbnailImage": "https://img.wongnai.com/p/128x128/2021/08/14/78da01c38b34401b944aedad1abc94a1.jpg",
+    "fullPrice": 120,
+    "discountedPercent": 30,
+    "discountedTimePeriod": {
+        "begin": "",
+        "end": ""
+    },
+    "sold": 80,
+    "totalInStock": 69,
+    "largeImage": "https://www.cpbrandsite.com/contents/recipe/abfabht1ugplhhpomk01ue1cqldxndnhahjqypkz.jpg",
+    "options": [
+        {
+            "label": "ระดับความเผ็ด",
+            "choices": [
+                {
+                    "label": "ไม่เผ็ด"
+                },
+                {
+                    "label": "เผ็ดกลาง"
+                },
+                {
+                    "label": "เผ็ดมาก"
+                }
+            ]
+        },
+        {
+            "label": "เนื้อสัตว์",
+            "choices": [
+                {
+                    "label": "หมู"
+                },
+                {
+                    "label": "ไก่"
+                },
+                {
+                    "label": "วีแกน"
+                }
+            ]
+        }
+    ]
+}
